@@ -1,0 +1,9 @@
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\bin\Debug\Talent.DataAccess.Fake.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\bin\Debug\Talent.DataAccess.Fake.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\bin\Debug\Talent.Domain.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\bin\Debug\Talent.Domain.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\obj\Debug\Talent.DataAccess.Fake.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\obj\Debug\Talent.DataAccess.Fake.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake\obj\Debug\Talent.DataAccess.Fake.csprojResolveAssemblyReference.cache

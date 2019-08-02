@@ -1,0 +1,11 @@
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Talent.DataAccess.Fake.Tests.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Talent.DataAccess.Fake.Tests.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Talent.DataAccess.Fake.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Talent.Domain.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Talent.DataAccess.Fake.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Talent.Domain.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\obj\Debug\Talent.DataAccess.Fake.Tests.csprojResolveAssemblyReference.cache
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\obj\Debug\Talent.DataAccess.Fake.Tests.dll
+C:\UclaExt\Lab09-DataBinding\Talent.DataAccess.Fake.Tests\obj\Debug\Talent.DataAccess.Fake.Tests.pdb

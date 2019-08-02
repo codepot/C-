@@ -1,0 +1,11 @@
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Talent.DataAccess.Mock.Tests.dll
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Talent.DataAccess.Mock.Tests.pdb
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Talent.DataAccess.Mock.dll
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Talent.Domain.dll
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Talent.DataAccess.Mock.pdb
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Talent.Domain.pdb
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\obj\Debug\Talent.DataAccess.Mock.Tests.csprojResolveAssemblyReference.cache
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\obj\Debug\Talent.DataAccess.Mock.Tests.dll
+C:\UclaExt\Lab09-Architecture\Talent.DataAccess.Mock.Tests\obj\Debug\Talent.DataAccess.Mock.Tests.pdb
