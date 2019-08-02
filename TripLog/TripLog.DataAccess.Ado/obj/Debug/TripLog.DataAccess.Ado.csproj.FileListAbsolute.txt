@@ -1,0 +1,30 @@
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.csprojResolveAssemblyReference.cache
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.dll.config
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.dll
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.pdb
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\TripLog.Domain.dll
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\Ucla.Common.dll
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\TripLog.Domain.pdb
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.dll
+C:\UclaExt\HW03\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.pdb
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.dll.config
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.dll
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.pdb
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.Domain.dll
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\Ucla.Common.dll
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.Domain.pdb
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.csprojResolveAssemblyReference.cache
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.dll
+C:\UclaExt\TripLog\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.csprojResolveAssemblyReference.cache
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.dll.config
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.dll
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.DataAccess.Ado.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.Domain.dll
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\Ucla.Common.dll
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\TripLog.Domain.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\bin\Debug\Ucla.Common.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.dll
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\TripLog.DataAccess.Ado\obj\Debug\TripLog.DataAccess.Ado.pdb
