@@ -1,0 +1,30 @@
+﻿<Window x:Class="TripLog.Wpf.AddTrip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:domain="clr-namespace:TripLog.Domain;assembly=TripLog.Domain"
+        xmlns:local="clr-namespace:TripLog.Wpf"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded" ResizeMode="CanMinimize" ShowInTaskbar="False"
+        Title="Add a New Trip" Height="267" Width="500" WindowStartupLocation="CenterOwner">
+    <Grid Margin="0,6,0.333,2.667">
+        <Grid HorizontalAlignment="Left" Height="26" Margin="17,20,0,0" VerticalAlignment="Top" Width="100" SnapsToDevicePixels="True"/>
+        <Label x:Name="label" Content="Trip Name" HorizontalAlignment="Left" Margin="27,20,0,0" VerticalAlignment="Top" Width="70" SnapsToDevicePixels="True" Background="{x:Null}"/>
+        <Label x:Name="label_Copy" Content="Description" HorizontalAlignment="Left" Margin="27,67,0,0" VerticalAlignment="Top" Width="70" SnapsToDevicePixels="True" Background="{x:Null}"/>
+        <Label x:Name="label_Copy1" Content="Start Date" HorizontalAlignment="Left" Margin="27,119,0,0" VerticalAlignment="Top" Width="70" SnapsToDevicePixels="True" Background="{x:Null}"/>
+        <Label x:Name="label_Copy2" Content="End Date" HorizontalAlignment="Left" Margin="306,122,0,0" VerticalAlignment="Top" Width="65" SnapsToDevicePixels="True" Background="{x:Null}"/>
+        <TextBox x:Name="textBox_tripName" HorizontalAlignment="Left" Height="36" Margin="107,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="365" SnapsToDevicePixels="True" Background="{x:Null}" FontSize="16">
+            <Binding>
+                <Binding.Path>
+                    Name
+                </Binding.Path>
+            </Binding>
+        </TextBox>
+        <TextBox x:Name="textBox_tripDescription" HorizontalAlignment="Left" Height="36" Margin="107,71,0,0" TextWrapping="Wrap" Text="{Binding Path=Description}" VerticalAlignment="Top" Width="365" SnapsToDevicePixels="True" Background="{x:Null}" FontSize="13.333"/>
+        <DatePicker x:Name="datePicker_startDate" HorizontalAlignment="Left" Margin="107,122,0,0" VerticalAlignment="Top" SnapsToDevicePixels="True" Background="{x:Null}" Height="26" SelectedDate="{Binding Path=StartDate, Mode=TwoWay}"/>
+        <DatePicker x:Name="datePicker_EndDate" HorizontalAlignment="Left" Margin="371,122,0,0" VerticalAlignment="Top" SnapsToDevicePixels="True" Background="{x:Null}" Height="26" SelectedDate="{Binding Path=EndDate, Mode=TwoWay}"/>
+        <Button x:Name="button_addTrip" Content="_Add" HorizontalAlignment="Left" Margin="397,180,0,0" VerticalAlignment="Top" Width="75" SnapsToDevicePixels="True" Background="{x:Null}" IsDefault="True" Height="32" Click="button_addTrip_Click"/>
+        <Button x:Name="button_cancel" Content="_Cancel" HorizontalAlignment="Left" Margin="296,180,0,0" VerticalAlignment="Top" Width="75" SnapsToDevicePixels="True" Background="{x:Null}" IsCancel="True" Height="32" Click="button_cancel_click"/>
+    </Grid>
+</Window>
