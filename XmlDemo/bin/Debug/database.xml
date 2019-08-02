@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape xsi:type="Square">
+    <area>1</area>
+    <edges>4</edges>
+    <iSize>1</iSize>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <area>78.50000262260437</area>
+    <edges>0</edges>
+    <radius>5</radius>
+  </Shape>
+  <Shape xsi:type="Square">
+    <area>16</area>
+    <edges>4</edges>
+    <iSize>4</iSize>
+  </Shape>
+  <Shape xsi:type="Square">
+    <area>64</area>
+    <edges>4</edges>
+    <iSize>8</iSize>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <area>78.50000262260437</area>
+    <edges>0</edges>
+    <radius>5</radius>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <area>153.86000514030457</area>
+    <edges>0</edges>
+    <radius>7</radius>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <area>3.1400001049041748</area>
+    <edges>0</edges>
+    <radius>1</radius>
+  </Shape>
+  <Shape xsi:type="Square">
+    <area>81</area>
+    <edges>4</edges>
+    <iSize>9</iSize>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <area>28.260000944137573</area>
+    <edges>0</edges>
+    <radius>3</radius>
+  </Shape>
+</ArrayOfShape>
