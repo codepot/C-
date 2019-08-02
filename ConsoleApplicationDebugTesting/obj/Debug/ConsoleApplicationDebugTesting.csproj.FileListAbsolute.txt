@@ -1,0 +1,6 @@
+C:\Day2\ConsoleApplicationDebugTesting\bin\Debug\ConsoleApplicationDebugTesting.exe.config
+C:\Day2\ConsoleApplicationDebugTesting\bin\Debug\ConsoleApplicationDebugTesting.exe
+C:\Day2\ConsoleApplicationDebugTesting\bin\Debug\ConsoleApplicationDebugTesting.pdb
+C:\Day2\ConsoleApplicationDebugTesting\obj\Debug\ConsoleApplicationDebugTesting.csprojResolveAssemblyReference.cache
+C:\Day2\ConsoleApplicationDebugTesting\obj\Debug\ConsoleApplicationDebugTesting.exe
+C:\Day2\ConsoleApplicationDebugTesting\obj\Debug\ConsoleApplicationDebugTesting.pdb
