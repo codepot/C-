@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripLog.Domain", "TripLog.Domain\TripLog.Domain.csproj", "{247B29C6-75A4-4286-A3E7-55201508D429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucla.Common", "Ucla.Common\Ucla.Common.csproj", "{DC0E099C-97F7-4FE6-8A8C-F28B0006037A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripLog.DataAccess.Ado", "TripLog.DataAccess.Ado\TripLog.DataAccess.Ado.csproj", "{21A3DFFE-9905-4105-B767-70E8F446C518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripLog.DataAccess.Ado.Tests", "TripLog.DataAccess.Ado.Tests\TripLog.DataAccess.Ado.Tests.csproj", "{E36B08BF-8D58-45C3-B26B-8A02151F8EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripLog.Wpf", "TripLog.Wpf\TripLog.Wpf.csproj", "{AF33E46B-FF18-445F-879F-729A0AE74375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247B29C6-75A4-4286-A3E7-55201508D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247B29C6-75A4-4286-A3E7-55201508D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247B29C6-75A4-4286-A3E7-55201508D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247B29C6-75A4-4286-A3E7-55201508D429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0E099C-97F7-4FE6-8A8C-F28B0006037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0E099C-97F7-4FE6-8A8C-F28B0006037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0E099C-97F7-4FE6-8A8C-F28B0006037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0E099C-97F7-4FE6-8A8C-F28B0006037A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A3DFFE-9905-4105-B767-70E8F446C518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A3DFFE-9905-4105-B767-70E8F446C518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A3DFFE-9905-4105-B767-70E8F446C518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A3DFFE-9905-4105-B767-70E8F446C518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36B08BF-8D58-45C3-B26B-8A02151F8EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36B08BF-8D58-45C3-B26B-8A02151F8EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36B08BF-8D58-45C3-B26B-8A02151F8EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36B08BF-8D58-45C3-B26B-8A02151F8EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF33E46B-FF18-445F-879F-729A0AE74375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF33E46B-FF18-445F-879F-729A0AE74375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF33E46B-FF18-445F-879F-729A0AE74375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF33E46B-FF18-445F-879F-729A0AE74375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

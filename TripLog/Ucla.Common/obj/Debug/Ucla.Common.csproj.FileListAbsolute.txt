@@ -1,0 +1,47 @@
+C:\Ucla\Lab04-ADO-Finished\Ucla.Core\bin\Debug\Ucla.Common.dll
+C:\Ucla\Lab04-ADO-Finished\Ucla.Core\bin\Debug\Ucla.Common.pdb
+C:\Ucla\Lab04-ADO-Finished\Ucla.Core\obj\Debug\Ucla.Common.dll
+C:\Ucla\Lab04-ADO-Finished\Ucla.Core\obj\Debug\Ucla.Common.pdb
+C:\Ucla\Lab04-ADO-Finished\Ucla.Core\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
+C:\Ucla\Lab06PT1-ADO-Finished\Ucla.Core\bin\Debug\Ucla.Common.dll
+C:\Ucla\Lab06PT1-ADO-Finished\Ucla.Core\bin\Debug\Ucla.Common.pdb
+C:\Ucla\Lab06PT1-ADO-Finished\Ucla.Core\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
+C:\Ucla\Lab06PT1-ADO-Finished\Ucla.Core\obj\Debug\Ucla.Common.dll
+C:\Ucla\Lab06PT1-ADO-Finished\Ucla.Core\obj\Debug\Ucla.Common.pdb
+C:\Ucla\Lab06-ADO\Ucla.Core\bin\Debug\Ucla.Common.dll
+C:\Ucla\Lab06-ADO\Ucla.Core\bin\Debug\Ucla.Common.pdb
+C:\Ucla\Lab06-ADO\Ucla.Core\obj\Debug\Ucla.Common.dll
+C:\Ucla\Lab06-ADO\Ucla.Core\obj\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADO-Done\Ucla.Core\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADO-Done\Ucla.Core\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADO-Done\Ucla.Core\obj\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADO-Done\Ucla.Core\obj\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADO-Done\Ucla.Core\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Core\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Core\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Core\obj\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Core\obj\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Core\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Common\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Common\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Common\obj\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADOPt1-Finished\Lab06-ADOPt1-Finished\Ucla.Common\obj\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADOPt1-Finished\Ucla.Common\bin\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADOPt1-Finished\Ucla.Common\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\Lab06-ADOPt1-Finished\Ucla.Common\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
+C:\UclaExt\Lab06-ADOPt1-Finished\Ucla.Common\obj\Debug\Ucla.Common.dll
+C:\UclaExt\Lab06-ADOPt1-Finished\Ucla.Common\obj\Debug\Ucla.Common.pdb
+C:\UclaExt\HW03\Ucla.Common\bin\Debug\Ucla.Common.dll
+C:\UclaExt\HW03\Ucla.Common\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\HW03\Ucla.Common\obj\Debug\Ucla.Common.dll
+C:\UclaExt\HW03\Ucla.Common\obj\Debug\Ucla.Common.pdb
+C:\UclaExt\TripLog\Ucla.Common\bin\Debug\Ucla.Common.dll
+C:\UclaExt\TripLog\Ucla.Common\bin\Debug\Ucla.Common.pdb
+C:\UclaExt\TripLog\Ucla.Common\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
+C:\UclaExt\TripLog\Ucla.Common\obj\Debug\Ucla.Common.dll
+C:\UclaExt\TripLog\Ucla.Common\obj\Debug\Ucla.Common.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\Ucla.Common\bin\Debug\Ucla.Common.dll
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\Ucla.Common\bin\Debug\Ucla.Common.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\Ucla.Common\obj\Debug\Ucla.Common.dll
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\Ucla.Common\obj\Debug\Ucla.Common.pdb
+C:\Users\saki\Documents\Visual Studio 2015\Projects\TripLog\Ucla.Common\obj\Debug\Ucla.Common.csprojResolveAssemblyReference.cache
