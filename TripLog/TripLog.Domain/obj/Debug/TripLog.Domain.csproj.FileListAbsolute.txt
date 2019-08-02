@@ -1,0 +1,8 @@
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\obj\Debug\TripLog.Domain.csprojResolveAssemblyReference.cache
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\bin\Debug\TripLog.Domain.dll.config
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\bin\Debug\TripLog.Domain.dll
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\bin\Debug\TripLog.Domain.pdb
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\bin\Debug\Ucla.Common.dll
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\bin\Debug\Ucla.Common.pdb
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\obj\Debug\TripLog.Domain.dll
+c:\users\saki\documents\visual studio 2015\Projects\TripLog\TripLog.Domain\obj\Debug\TripLog.Domain.pdb
